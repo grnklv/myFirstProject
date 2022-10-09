@@ -15,9 +15,9 @@ Contents
 5. Project decisions
 
 - Text
-- More Text
- - More and more Text
-  Example Text
+- More Text 
+  - More and more Text
+    Example Text
 
 .. figure:: /images/audi.png
    :alt: Audi
