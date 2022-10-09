@@ -22,8 +22,7 @@ There will be no document grouping therefore it is highly recommended a naming c
 
 .. figure:: /images/audi.png
    :align: center
-   :width: 50%
-   :alt: audi
+   :alt: audi-audi
     
    Figure 1: Audi
 
