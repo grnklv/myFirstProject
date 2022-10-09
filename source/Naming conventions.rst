@@ -40,7 +40,7 @@ There will be no document grouping therefore it is highly recommended a naming c
    :align: center
    :alt: audi1
 
-   Figure 2: Another photo
+   Figure 2: Another Audi photo
 
 - Routes
 
@@ -75,8 +75,8 @@ Physical products (EBOM Items) naming convention
 - Integrated Circuit - "IC-<product number>-<version>"
  Example: **IC-12345_ABC**
 
-- Analog part - "ANA-<product name>_<version (XX - letters)>"
- Example: **ANA-12345_AB**
+- Analog part - "ANA-<product name>_<version (XXX) - letters>"
+ Example: **ANA-12345_AAA**
 
 - Package - "PCK-<Melexis package name>
  Example: **PCK-DFN_WF12/4x4 GR**
@@ -84,16 +84,16 @@ Physical products (EBOM Items) naming convention
 - Leadframe - "LF-<leadframe material name>"
  Example: **LF-EFTEC-64T Roughened**
 
-- Mold Compound - "MC-<mold compound material>"
+- Mold Compound - "MC-<mold compound material name>"
  Example: **MC-EME-G700LTD**
 
-- Die Attach - "DA-<die attach material>"
+- Die Attach - "DA-<die attach material name>"
  Example: **DA-Ablestik C990 333**
 
-- Bond Wire - "BW-<bond wire material>"
+- Bond Wire - "BW-<bond wire material name>"
  Example: **BW-Pd doped Au**
 
-- Capacitor - "CAP-<capacitor name as in IMDS>"
+- Capacitor - "CAP-<capacitor name as is in IMDS>"
  Example: **CAP-CGA3E3X7R1H224K080AB"**
 
 - Integrated Magnetic Concentrator - "IMC-<Clover/Disk>"
@@ -103,6 +103,7 @@ Physical products (EBOM Items) naming convention
  Example: **MEMS-90004-CA**
 
 - Software part - The already defined gitlab naming convention should be used!
+
 
 - Digital part - The already defined gitlab naming convention should be used!
 
