@@ -75,8 +75,8 @@ Physical products (EBOM Items) naming convention
 - Integrated Circuit - "IC-<product number>-<version>"
  Example: **IC-12345_ABC**
 
-- Analog part - "ANA-<product name>_<version (XXX) - letters>"
- Example: **ANA-12345_AAA**
+- Analog part - "ANA-<product name>_<version (XX) - letters>"
+ Example: **ANA-12345_AA**
 
 - Package - "PCK-<Melexis package name>
  Example: **PCK-DFN_WF12/4x4 GR**
