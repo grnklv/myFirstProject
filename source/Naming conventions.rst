@@ -16,8 +16,8 @@ Contents
 
 - Text
 - More Text 
-  - More and more Text
-    Example Text
+ - More and more Text
+ Example Text
 
 .. figure:: /images/audi.png
    :alt: Audi
