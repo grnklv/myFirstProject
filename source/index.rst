@@ -20,7 +20,7 @@ Documents, tasks and routes
 
 There will be no document grouping therefore it is highly recommended a naming conventions to be followed. Since there is relation between documents, tasks and routes the conventions regarding their naming will be described in this chapter. This relation is shown on Figure 1 below.
 
-.. figure:: /source/images/audi.jpg
+.. figure:: \images\audi.jpg
    :align: center
    :width: 50%
    :alt: tasks-routes-documents-relation
