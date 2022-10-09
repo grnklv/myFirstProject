@@ -10,7 +10,6 @@
 Naming conventions
 ==================
 
-Asd
 In order to increase the traceability and transparency of the data in Enovia naming conventions shall be used for the different types of objects. Each name of an object shall include a prefix and a name/number. In the next sections the main objects naming conventions will be described.
 
 .. note:: For objects serving specific purpose a product name, project number, milestone a postfix can be added. Example: "Prefix_Name/Number_Milestone_Postfix"
@@ -28,14 +27,14 @@ There will be no document grouping therefore it is highly recommended a naming c
    Figure 1: The relation between documents, tasks and routes
 
 - Documents
- - Project documents - "MLX<product name/project number>_<document subject>"
-  Example: MLX12345_Gross Profit Margin
- - Product/Sub-process (Part) documents - "<development sub-process/process>_<document subject>"
-  Examples: **ANA_Design Specification, DQA_Reviews Report, EMC_Dashboard, TS_HW Status, PROC_Process Development Checklist, TS_Test Specification, WPP_Technical Requirenments, CHAR_Verification and Integration Plan etc..**
+  - Project documents - "MLX<product name/project number>_<document subject>"
+    Example: MLX12345_Gross Profit Margin
+  - Product/Sub-process (Part) documents - "<development sub-process/process>_<document subject>"
+    Examples: **ANA_Design Specification, DQA_Reviews Report, EMC_Dashboard, TS_HW Status, PROC_Process Development Checklist, TS_Test Specification, WPP_Technical Requirenments, CHAR_Verification and Integration Plan etc..**
 
 - Tasks
- - Tasks naming - "<development sub-process>-<document name>"
-  Examples: **MLX-Gross Profit Margin (GPM), TS-Test Specification, SYS-System FMEA etc..** More exampes are shown on Figure 2 below.
+  - Tasks naming - "<development sub-process>-<document name>"
+    Examples: **MLX-Gross Profit Margin (GPM), TS-Test Specification, SYS-System FMEA etc..** More exampes are shown on Figure 2 below.
 
  .. figure:: /images/Examplefortasksnaming.jpg
    :align: center
@@ -45,8 +44,8 @@ There will be no document grouping therefore it is highly recommended a naming c
    Figure 2: Example for task naming
 
 - Routes
- - Routes - "<development sub-process/process>_<DocName>_<Milestone>_RT"
-  Example: **RA_Test request_CD_RT** (For more examples - check Figure 1)
+  - Routes - "<development sub-process/process>_<DocName>_<Milestone>_RT"
+    Example: **RA_Test request_CD_RT** (For more examples - check Figure 1)
 
 Model Definition
 ================
