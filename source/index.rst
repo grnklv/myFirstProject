@@ -10,6 +10,7 @@
 Naming conventions
 ==================
 
+ASD
 In order to increase the traceability and transparency of the data in Enovia naming conventions shall be used for the different types of objects. Each name of an object shall include a prefix and a name/number. In the next sections the main objects naming conventions will be described.
 
 .. note:: For objects serving specific purpose a product name, project number, milestone a postfix can be added. 
@@ -23,8 +24,9 @@ There will be no document grouping therefore it is highly recommended a naming c
 .. figure:: \images\audi.jpg
    :align: center
    :width: 50%
+   :alt: audi
     
-   Figure 1: The relation between documents, tasks and routes
+   Figure 1: Audi
 
 - Documents
 
