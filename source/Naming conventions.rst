@@ -4,7 +4,8 @@ Naming conventions
 
 In order to increase the traceability and transparency of the data in Enovia naming conventions shall be used for the different types of objects. Each name of an object shall include a prefix and a name/number. In the next sections the main objects naming conventions will be described.
 
-.. note:: For objects serving specific purpose a product name, project number, milestone a postfix can be added. 
+.. note:: 
+  For objects serving specific purpose a product name, project number, milestone a postfix can be added. 
   Example: **"Prefix_Name/Number_Milestone_Postfix"**
 
 Documents, tasks and routes
@@ -56,8 +57,9 @@ Model Definition
  Example for revision: **A**
 
 .. note:: 
-   In case of exeptions like |MPW| different funcionality is used called "Branching". Naming convention for |MPW| branches is described below. 
-   - Multi-project wafer - "MPW.<number 1->99>"
+  In case of exeptions like |MPW| different funcionality is used called "Branching". Naming convention for |MPW| branches is described below. 
+  
+  - Multi-project wafer - "MPW.<number 1->99>"
    Example: **MPW.1**
 
 - Product configurations
@@ -74,10 +76,6 @@ Physical products (EBOM Items) naming convention
 
 - Analog part - "ANA-<product name>_<version (XX - letters)>"
  Example: **ANA-12345_AB**
-
-- Software part - The already defined gitlab naming convention should be used!
-
-- Digital part - The already defined gitlab naming convention should be used!
 
 - Package - "PCK-<Melexis package name>
  Example: **PCK-DFN_WF12/4x4 GR**
@@ -102,6 +100,10 @@ Physical products (EBOM Items) naming convention
 
 - Micro-electromechanical systems - "MEMS-<device name>-<version>"
  Example: **MEMS-90004-CA**
+
+- Software part - The already defined gitlab naming convention should be used!
+
+- Digital part - The already defined gitlab naming convention should be used!
 
 Libraries and classes
 =====================
