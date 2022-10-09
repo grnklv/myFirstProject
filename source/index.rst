@@ -23,7 +23,6 @@ There will be no document grouping therefore it is highly recommended a naming c
 .. figure:: \images\audi.jpg
    :align: center
    :width: 50%
-   :alt: tasks-routes-documents-relation
     
    Figure 1: The relation between documents, tasks and routes
 
@@ -46,7 +45,6 @@ There will be no document grouping therefore it is highly recommended a naming c
  .. figure:: /images/Examplefortasksnaming.jpg
    :align: center
    :width: 50%
-   :alt: example-for-tasks-naming
 
    Figure 2: Example for task naming
 
