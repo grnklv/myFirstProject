@@ -6,6 +6,8 @@
 .. toctree::
    :maxdepth: 2
 
+   Naming conventions
+
 ==================
 Naming conventions
 ==================
